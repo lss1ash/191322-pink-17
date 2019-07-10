@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Александр Ярёха](https://up.htmlacademy.ru/adaptive/17/user/191322).
-* Наставник: `Неизвестно`.
+* Наставник: [Мурат Баркинхоев](https://up.htmlacademy.ru/adaptive/17/user/186857).
 
 ---
 
