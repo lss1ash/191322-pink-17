@@ -1,3 +1,15 @@
-html {
-  background-color: yellow;
-}
+@import "./blocks/advantages.scss";
+@import "./blocks/copyright.scss";
+@import "./blocks/download.scss";
+@import "./blocks/information.scss";
+@import "./blocks/intro-background.scss";
+@import "./blocks/intro.scss";
+@import "./blocks/main-nav.scss";
+@import "./blocks/page-footer.scss";
+@import "./blocks/page-header.scss";
+@import "./blocks/page-main.scss";
+@import "./blocks/photo-item.scss";
+@import "./blocks/photos.scss";
+@import "./blocks/social-list.scss";
+@import "./blocks/visually-hidden.scss";
+
